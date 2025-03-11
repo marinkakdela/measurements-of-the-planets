@@ -45,4 +45,4 @@ for planet in planets:
 
 # Plot the solar system
 plot_solar_system(planets)
-456
+45
