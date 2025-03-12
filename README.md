@@ -46,3 +46,4 @@ for planet in planets:
 # Plot the solar system
 plot_solar_system(planets)
 45
+67
